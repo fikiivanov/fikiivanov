@@ -25,14 +25,20 @@ On my personal home page, you will find information about some of my notable pro
 ## Skills
 On this page, I showcase my proficiency in various technologies and tools:
 
-- ![JavaScript Logo](https://example.com/javascript-logo.png) JavaScript
-- ![React Logo](https://example.com/react-logo.png) React
-- ![HTML Logo](https://example.com/html-logo.png) HTML
-- ![CSS Logo](https://example.com/css-logo.png) CSS
-- ![Firebase Logo](https://example.com/firebase-logo.png) Firebase
-- ![MySQL Logo](https://example.com/mysql-logo.png) MySQL
 [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
-``` Git
+ JavaScript
+[![My Skills](https://skillicons.dev/icons?i=react&perline=1)](https://skillicons.dev)
+ React
+[![My Skills](https://skillicons.dev/icons?i=html&perline=1)](https://skillicons.dev)
+ HTML
+[![My Skills](https://skillicons.dev/icons?i=css&perline=1)](https://skillicons.dev)
+ CSS
+[![My Skills](https://skillicons.dev/icons?i=firebase&perline=1)](https://skillicons.dev)
+ Firebase
+[![My Skills](https://skillicons.dev/icons?i=mysql&perline=1)](https://skillicons.dev)
+ MySQL
+[![My Skills](https://skillicons.dev/icons?i=github&perline=1)](https://skillicons.dev)
+ Git
 
 These skills enable me to build robust and user-friendly web applications. I am continuously expanding my knowledge and staying up to date with the latest industry trends.
 
