@@ -4,7 +4,6 @@ Welcome to my personal home page on GitHub! I'm Fiki Ivanov, a passionate and de
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Technologies](#technologies)
 - [Projects](#projects)
 - [Skills](#skills)
 - [Portfolio Website](#portfolio-website)
@@ -12,12 +11,6 @@ Welcome to my personal home page on GitHub! I'm Fiki Ivanov, a passionate and de
 
 ## Introduction
 I believe in the power of technology to shape the world and solve real-world problems. With a strong foundation in JavaScript, React, HTML, CSS, Firebase, MySQL, and Git, I am eager to embark on my professional journey and make a meaningful impact in the industry. This home page aims to provide visitors with insights into my background, skills, projects, and my goal of finding my first job.
-
-## Technologies
-My personal home page is built using the following technologies:
-- HTML: The markup language for structuring the web page.
-- CSS: The styling language for enhancing the visual presentation.
-- JavaScript: The programming language for adding interactivity and functionality.
 
 ## Projects
 On my personal home page, you will find information about some of my notable projects. These projects demonstrate my technical abilities, problem-solving skills, and creativity as a developer. Each project description provides an overview of the project's goals, technologies used, and my contributions.
