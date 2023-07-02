@@ -1,4 +1,4 @@
-# My Personal Home Page
+#Hi Everyone 
 
 Welcome to my personal home page on GitHub! I'm Fiki Ivanov, a passionate and dedicated developer seeking my first job opportunity. This project serves as a central hub to learn more about me, my experiences, and my interests as a developer and individual.
 
