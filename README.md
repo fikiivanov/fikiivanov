@@ -31,7 +31,7 @@ On this page, I showcase my proficiency in various technologies and tools:
 - ![CSS Logo](https://example.com/css-logo.png) CSS
 - ![Firebase Logo](https://example.com/firebase-logo.png) Firebase
 - ![MySQL Logo](https://example.com/mysql-logo.png) MySQL
-[![My Skills](https://skillicons.dev/icons?i=git,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
 ``` Git
 
 These skills enable me to build robust and user-friendly web applications. I am continuously expanding my knowledge and staying up to date with the latest industry trends.
