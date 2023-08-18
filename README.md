@@ -8,7 +8,8 @@ I believe in the power of technology to shape the world and solve real-world pro
 
 ## Skills
 
-Here are the key skills that I possess:
+
+Here are the main skills I have:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js&perline=1)](https://skillicons.dev)
